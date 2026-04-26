@@ -160,7 +160,7 @@ Problem Solving Techniques = ["Root Cause Analysis", "KPI Dashboard Design",
 | HR manual reporting hours saved/month | **16+** |
 
 ## 🎓 Education
-🎓 **M.S. Computer Science** — Wichita State University
+🎓 **M.S. Computer Science** — Wichita State University <br>
 🎓 **B.S. Computer Science + Minor in Mathematics** — Wichita State University
 
 **Certifications:** Google Data Analytics Professional Certificate · SQL Basic Certificate · Learning Data Visualization
