@@ -18,7 +18,7 @@ And professionally, I've been deliberately building toward it. I've analyzed 3.2
 
 ## 🏥 Healthcare Analytics — Featured Work
 
-### 🫀 Hospital Patient Records Analytics
+### [🫀 Hospital Patient Records Analytics](https://github.com/SriramSrinivasan1/Hospital-Patients-Records/blob/main/README.md)
 **`Personal Project · Power BI · Python · Excel · DAX`**
 
 > 30,000 patient records. 10 years of admission data. Built to answer the questions operational leaders actually ask.
@@ -31,7 +31,7 @@ And professionally, I've been deliberately building toward it. I've analyzed 3.2
 
 ---
 
-### 🧬 Public Health & Cancer Screening Analytics — TruBridge
+### [🧬 Public Health & Cancer Screening Analytics — TruBridge](https://github.com/SriramSrinivasan1/TruBridge-Healthcare-Data-Analytics)
 **`Extern × TruBridge**
 
 > Population-level analysis for 3.2M Iowa residents to find who's being left behind by the healthcare system.
@@ -44,7 +44,7 @@ And professionally, I've been deliberately building toward it. I've analyzed 3.2
 
 ---
 
-### 🏥 Clinical Workflow Analytics — Stanford Medicine
+### [🏥 Clinical Workflow Analytics — Stanford Medicine](https://github.com/SriramSrinivasan1/Stanford-Medicine-Project/blob/main/README.md)
 **`Extern × Stanford Medicine**
 
 > Finding the hidden gaps in high-stakes nephrology care — where delays cost patients.
@@ -74,7 +74,7 @@ Feb 2026 → People & sentiment analytics         (Amazon)
 
 Every project ended with a presentation to a senior stakeholder. Every deliverable was adopted or acted on. That wasn't accidental; it was the whole point.
 
-### 🤖 AI Document Processing & RAG — Outamation
+### [🤖 AI Document Processing & RAG — Outamation](https://github.com/SriramSrinivasan1/Outamation-Chatbot-Project)
 **`Extern × Outamation**
 
 > End-to-end AI pipeline for mortgage document intelligence; built fast, validated rigorously, presented to the C-suite.
@@ -85,7 +85,7 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 
 `Python` `FAISS` `RAG` `LLMs` `NLP` `PDF Extraction` `AI Workflows`
 
-### 📊 Competitive Intelligence Pipeline — Wayfair
+### [📊 Competitive Intelligence Pipeline — Wayfair](https://github.com/SriramSrinivasan1/Wayfair-AI-Agents)
 **`Extern × Wayfair**
 
 > 3 AI agents. 400 products. 80% faster pricing decisions. Built and handed off clean.
@@ -96,7 +96,7 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 
 `Python` `AI Agents` `Google Sheets API` `Competitive Intelligence` `Trend Analysis`
 
-### 🏭 People Analytics — Amazon Fulfillment Centers
+### [🏭 People Analytics — Amazon Fulfillment Centers](https://github.com/SriramSrinivasan1/Amazon-People-Analytics-Externship)
 **`Extern × Amazon**
 
 > Named shift burnout as the #1 driver of attrition — then built the infrastructure to act on it.
