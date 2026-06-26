@@ -16,6 +16,17 @@ There's always been a pull toward work where what I do directly shapes someone e
 
 And professionally, I've been deliberately building toward it. I've analyzed 3.2 million Iowa resident records at TruBridge, mapped clinical workflow breakdowns for 150 high-risk nephrology patients at Stanford Medicine, and built a hospital patient analytics dashboard tracking payer mix and clinical KPIs across 30,000 records.
 
+---
+## 🗺️ The Externship Arc — An Intentional Journey
+
+Most externships are resume line items. Mine were a deliberate strategy.
+
+I didn't stumble into different industries; I chose them. Each engagement was a chance to build a distinct analytical muscle: healthcare workflows, AI document systems, workforce analytics, competitive intelligence. The range was the point. A data professional who can move fluently across domains, go deep quickly, and always deliver something a real stakeholder can use is more valuable than one who stayed comfortable.
+
+Every project ended with a presentation to a senior stakeholder. Every deliverable was adopted or acted on. That wasn't accidental; it was the whole point.
+
+---
+
 ## 🏥 Healthcare Analytics — Featured Work
 
 ### [🫀 Hospital Patient Records Analytics](https://github.com/SriramSrinivasan1/Hospital-Patients-Records/blob/main/README.md)
@@ -32,7 +43,6 @@ And professionally, I've been deliberately building toward it. I've analyzed 3.2
 ---
 
 ### [🧬 Public Health & Cancer Screening Analytics — TruBridge](https://github.com/SriramSrinivasan1/TruBridge-Healthcare-Data-Analytics)
-**`Extern × TruBridge**
 
 > Population-level analysis for 3.2M Iowa residents to find who's being left behind by the healthcare system.
 
@@ -45,7 +55,6 @@ And professionally, I've been deliberately building toward it. I've analyzed 3.2
 ---
 
 ### [🏥 Clinical Workflow Analytics — Stanford Medicine](https://github.com/SriramSrinivasan1/Stanford-Medicine-Project/blob/main/README.md)
-**`Extern × Stanford Medicine**
 
 > Finding the hidden gaps in high-stakes nephrology care — where delays cost patients.
 
@@ -57,25 +66,7 @@ And professionally, I've been deliberately building toward it. I've analyzed 3.2
 
 ---
 
-## 🗺️ The Externship Arc — An Intentional Journey
-
-Most externships are resume line items. Mine were a deliberate strategy.
-
-I didn't stumble into different industries; I chose them. Each engagement was a chance to build a distinct analytical muscle: healthcare workflows, AI document systems, workforce analytics, competitive intelligence. The range was the point. A data professional who can move fluently across domains, go deep quickly, and always deliver something a real stakeholder can use is more valuable than one who stayed comfortable.
-
-Here's the full arc:
-```
-Mar 2025 → Clinical workflow mapping            (Stanford Medicine)
-Jun 2025 → Population health & cancer screening (TruBridge)
-Aug 2025 → AI document automation & RAG systems (Outamation)
-Oct 2025 → Competitive intelligence pipeline    (Wayfair)
-Feb 2026 → People & sentiment analytics         (Amazon)
-```
-
-Every project ended with a presentation to a senior stakeholder. Every deliverable was adopted or acted on. That wasn't accidental; it was the whole point.
-
 ### [🤖 AI Document Processing & RAG — Outamation](https://github.com/SriramSrinivasan1/Outamation-Chatbot-Project)
-**`Extern × Outamation**
 
 > End-to-end AI pipeline for mortgage document intelligence; built fast, validated rigorously, presented to the C-suite.
 
@@ -86,7 +77,6 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 `Python` `FAISS` `RAG` `LLMs` `NLP` `PDF Extraction` `AI Workflows`
 
 ### [📊 Competitive Intelligence Pipeline — Wayfair](https://github.com/SriramSrinivasan1/Wayfair-AI-Agents)
-**`Extern × Wayfair**
 
 > 3 AI agents. 400 products. 80% faster pricing decisions. Built and handed off clean.
 
@@ -97,7 +87,6 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 `Python` `AI Agents` `Google Sheets API` `Competitive Intelligence` `Trend Analysis`
 
 ### [🏭 People Analytics — Amazon Fulfillment Centers](https://github.com/SriramSrinivasan1/Amazon-People-Analytics-Externship)
-**`Extern × Amazon**
 
 > Named shift burnout as the #1 driver of attrition — then built the infrastructure to act on it.
 
