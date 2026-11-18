@@ -31,14 +31,11 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 ## 🏥 Healthcare Analytics — Featured Work
  
 ### [🥗 NutriPath — Clinical AI for Type 2 Diabetes · ChiEAC](https://github.com/SriramSrinivasan1/Nutri-Path-Diabetes-Patient-Recc)
-**`Healthcare Data Analyst · Python · Databricks · Streamlit · LLMs`**
+**`Python · Databricks · Streamlit · Clinical Decision Support · LLMs`**
  
 > 38M Americans live with type 2 diabetes. Most get a pamphlet, not a plan.
- 
-- Analyzed **100K synthetic diabetic patient profiles** in Python, segmenting cohorts by A1C, BMI, activity level and dietary preference to validate the recommendation engine's inputs against ADA clinical guidelines
-- Designed a **2-layer clinical AI system**: a rules-based ADA recommendation engine that generates personalized meal, activity and sleep plans, plus an LLM conversational layer that explains the reasoning without inventing medical advice
-- Built with synthetic data from day one to work within **HIPAA constraints**, targeting the post-diagnosis dietary follow-up gap
-`Python` `Databricks` `Streamlit` `LLMs` `Clinical Decision Support` `Diabetes Care`
+- Built an end-to-end food-as-medicine app for type 2 diabetes using a Bronze, Silver, Gold Databricks medallion architecture pipeline processes **100K patient profiles** into an XGBoost model that predicts the 3-month change in A1C from **41 clinical and lifestyle features**, achieving R² ≈ 0.91 on held-out synthetic data.
+- Delivered patient-facing diabetes care plans validated by **3 healthcare reviewers** for **95% clinical accuracy** and readability, deployed through a public Streamlit app at $0 infrastructure cost.
  
 ---
  
