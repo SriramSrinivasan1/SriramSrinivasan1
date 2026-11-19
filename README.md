@@ -40,7 +40,7 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 ---
  
 ### [🌏 Environmental Health Research — ARCeH](https://github.com/SriramSrinivasan1/ARCeH-Environmental-Health)
-**``Survey Analysis` · `Epidemiology` · `Global Health` · Python` · `statsmodels` · `Logistic Regression`**
+**`Survey Analysis · Epidemiology · Global Health · Python · statsmodels · Logistic Regression`**
  
 > Does cooking smoke make children sick? Within each country, yes, until household wealth enters the model.
  
