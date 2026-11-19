@@ -40,14 +40,13 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 ---
  
 ### [🌏 Environmental Health Research — ARCeH](https://github.com/SriramSrinivasan1/ARCeH-Environmental-Health)
-**`Externship · Python · statsmodels · Survey-Weighted Logistic Regression`**
+**``Survey Analysis` · `Epidemiology` · `Global Health` · Python` · `statsmodels` · `Logistic Regression`**
  
 > Does cooking smoke make children sick? Within each country, yes, until household wealth enters the model.
  
 - Analyzed **44,650 children across 5 Southeast Asian countries** using survey-weighted logistic regression on IPUMS-DHS data, finding polluting fuel's **26% higher odds** of acute respiratory infection disappeared after accounting for wealth
 - Validated the result with **4 alternative methods**, isolating wealth as the only factor that shifted the estimate and flagging indoor cooking (**28% higher odds**) for follow-up
 - Translated the results into a **practitioner's brief and slide deck** for ARCeH's Board Member, recommending a low-cost re-analysis before shifting clean-cooking resources
-`Python` `statsmodels` `Logistic Regression` `Survey Analysis` `Epidemiology` `Global Health`
  
 ---
  
