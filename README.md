@@ -51,50 +51,46 @@ Every project ended with a presentation to a senior stakeholder. Every deliverab
 ---
  
 ### [☁️ Healthcare Data Warehouse on AWS](https://github.com/SriramSrinivasan1/Healthcare-AWS-Cloud)
-**`Personal Project · AWS · Synthea · FHIR · SQL`**
+**`AWS · Synthea · FHIR · SQL · Data Engineering · Cloud Analytics `**
  
 > An end-to-end clinical analytics pipeline on AWS, from synthetic patient records to dashboard.
  
-- Generated **[N] synthetic patient records** with Synthea in FHIR format, modeling realistic encounters, conditions, medications and claims without touching real PHI
-- Built an **end-to-end pipeline on AWS** ([e.g. S3 → Glue → Athena/Redshift]) to ingest, flatten and model FHIR resources into an analytics-ready clinical data warehouse
-- Delivered **[dashboard / KPIs, e.g. readmissions, chronic disease prevalence, utilization]** on top of the warehouse, demoed to vendors and practitioners at **AWS re:Invent 2026**
-`AWS` `Synthea` `FHIR` `SQL` `Data Engineering` `Cloud Analytics`
+- Built a **Python ETL pipeline** that flattens **112 synthetic Synthea patient records** in HL7 FHIR R4 format into 4 analytics-ready tables covering **1,148 diagnoses, 2,650 prescriptions and 27,199 lab results**
+- Designed a **serverless star schema warehouse** on **Amazon S3, AWS Glue and Athena**, with SQL views that clean and standardize diagnoses, medications and lab results
+- Wrote **5 population health SQL analyses** and a **Tableau dashboard** covering chronic disease prevalence, diagnosis-to-treatment patterns and diabetic outreach, flagging **3 of 8 diabetic patients** with HbA1c above 6.5%
  
 ---
  
 ### [🧬 Public Health & Cancer Screening Analytics — TruBridge](https://github.com/SriramSrinivasan1/TruBridge-Healthcare-Data-Analytics)
-**`Externship · Python · Power BI · Statistical Testing`**
+**`Python · Power BI · Socioeconomic Analysis · Statistical Testing`**
  
 > Population-level analysis for 3.2M Iowa residents to find who's being left behind by the healthcare system.
  
 - Analyzed **colorectal cancer incidence and Census socioeconomic data across 5 years** in Python, surfacing correlations between poverty rates, insurance coverage gaps and county-level cancer rates
 - Built a **Power BI dashboard identifying 10 high-risk counties** where low insurance coverage and high poverty were most strongly linked to elevated cancer incidence
 - Presented findings to the Data Manager to directly support **targeted screening outreach** planning for underserved communities
-`Python` `Power BI` `Public Health Analytics` `Socioeconomic Analysis` `Cancer Screening`
  
 ---
  
 ### [🏥 Clinical Workflow Analytics — Stanford Medicine](https://github.com/SriramSrinivasan1/Stanford-Medicine-Project/blob/main/README.md)
-**`Externship · Python · Root Cause Analysis · Decision Support`**
+**`Root Cause Clinical Workflow Analysis · Decision Support`**
  
 > Finding the hidden gaps in high-stakes nephrology care, where delays cost patients.
  
 - Conducted root cause analysis on **lab-to-action workflows for 150 high-risk nephrology patients**, mapping every physician and nurse handoff to pinpoint where communication breakdowns were delaying follow-up care
 - Prototyped a **clinical decision-support dashboard** tracking case escalation timelines in real time
 - Achieved a **30% reduction in result-to-action delays** and presented workflow improvement recommendations to the Nurse Practitioner team
-`Python` `Root Cause Analysis` `Clinical Workflows` `Decision Support` `Nephrology Analytics`
  
 ---
  
 ### [🫀 Hospital Patient Records Analytics](https://github.com/SriramSrinivasan1/Hospital-Patients-Records/blob/main/README.md)
-**`Personal Project · Power BI · Python · Excel · DAX`**
+**`Power BI · Python · Excel · DAX`**
  
 > 30,000 patient records. 10 years of admission data. Built to answer the questions operational leaders actually ask.
  
 - Analyzed admission trends, average length of stay and insurance payer coverage across **30K patient records over a decade** using Python and Excel, identifying **500-patient admission spikes** by insurance type and encounter category
 - Built a **Power BI dashboard** using DAX measures tracking utilization metrics, payer information and claim costs across **4 clinical KPIs**
 - Reduced time-to-insight by **40%** for operational cost and patient access reporting
-`Python` `Power BI` `DAX` `Excel` `Healthcare Operations` `Payer Analytics`
  
 ---
  
